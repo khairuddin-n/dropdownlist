@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+
+h3 {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 25px; 
+    position: relative;
+    font-weight: bold;
+    margin: auto;
+    color: rgb(4, 64, 14);
+}
+
+#subject, #topic, #chapter{
+    display: inline-block;
+    vertical-align: top;
+    width: 100px;
+    text-align: center;
+    background-color: rgb(72, 215, 62);
+    color: rgb(11, 98, 29);
+    border: none;
+    cursor: pointer;
+}
